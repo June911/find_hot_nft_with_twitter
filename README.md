@@ -21,7 +21,7 @@ cretiria (can be customized)
 5. run "pip install -r requirements.txt"
 6. you are ready to go !!!
 
-
+--- 
 首先通过nansen NFT Paradise找到NFT列表，复制粘贴到文件夹。然后，每个项目找到twitter，检查twitter条件，符合则保留，并记录数据
 1. 粉丝数
 2. 每周更新tweet 次数
